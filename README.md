@@ -14,16 +14,16 @@
 Fill in your details where you see this icon ✍️
 We have provided a sample Day Journey entry staring at 0. You can delete this example.
 
-## [✍️ Your Name]'s Cloud Journey
+## Oludayo's Cloud Journey
 
-[✍️ Introduce yourself]
+Hi, I'm Oludayo. I'm a Network Engineer, aspiring to get into Cloud career. I believed leveraging the help of community like this I can help me to achieve more
 
-[✍️ Tell us why you started this challenge]
+I started this challenge to increase my knowledge, understanding and meet the wisest mind in the cloud industry.
 
-[✍️ Tell us where you want to be at the end of the challenge]
+I would like to be competent|learn and have taken my AWS Cloud Practitional and Solutions Architect Associate.
 
-- [✍️ Link to your Twitter](https://twitter.com/username)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
+- [@dahyooh](https://twitter.com/dahyooh)
+- [LinkedIn](https://www.linkedin.com/in/odahunsi)
 
 ## Stepping out the door
 
