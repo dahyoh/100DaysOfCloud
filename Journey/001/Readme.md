@@ -28,10 +28,6 @@ This is how I setup my git.
 
 ![Screenshot](https://via.placeholder.com/500x300)
 
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
 ## Social Proof
 
 [Twitter](https://twitter.com/dahyooh/status/1362271690877771777)
