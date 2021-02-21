@@ -1,32 +1,17 @@
 <!-- This is a template you can use for quick progress days. It removes a lot of the steps we encourage you to share in the longer template 000-DAY-ARTICLE-LONG-TEMPLATE.MD-->
 
-# New post title here
+# My Day1 of Cloud- Learning
 
 ## Cloud Research
 
-- Today I was able to figure out and set up my Github repo after battling with this for a couple of days. I had started CCP video on youtube by Andrew Brown at Exam Pro.
+- I am following the video on the 100DaysOfCloud on Youtube and also settingup my github.
 
-## Have difficulty setting up your github repo [On Windows PC].
+- Posted on send a request on linkedin to the 100DaysOf Cloud group
 
-This is how I setup my git.
+- Research and find best materials to use for my study
 
-### Step 1 — Open your Github account on the website www.github.com
-### Step 2 — Go to https://git-scm.com/download/win
-### Step 3 — Identify the bit in which your PC operating system is running (i.e 32 or 64 bit)
-### Step 4 — Download the specific installation stet up for your PC bit - under [Git for Windows Setup] 
-### Step 5 — Install
-### Step 6 — Fire Up "Git Bash"
+- Join the discord group 100DaysOfCloud
 
-### ****These are the commands you need to run in the git bash****
-
-### Command 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
 
 ## Social Proof
 
