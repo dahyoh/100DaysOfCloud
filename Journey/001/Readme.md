@@ -4,11 +4,11 @@
 
 ## Cloud Research
 
-- I am following the video on the 100DaysOfCloud on Youtube and also settingup my github.
+- Viewed videos on the 100DaysOfCloud on Youtube and also setting up my github repo.
 
-- Posted on send a request on linkedin to the 100DaysOf Cloud group
+- Sent a request on linkedin to the 100DaysOfCloud group
 
-- Research and find best materials to use for my study
+- Research and find best materials to use for AWS study
 
 - Join the discord group 100DaysOfCloud
 
