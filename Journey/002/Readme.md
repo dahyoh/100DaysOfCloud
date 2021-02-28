@@ -13,7 +13,7 @@ This is how I setup my git.
 ### Step 1 — Open your Github account on the website www.github.com
 ### Step 2 — Go to https://git-scm.com/download/win
 ### Step 3 — Identify the bit in which your PC operating system is running (i.e 32 or 64 bit)
-### Step 4 — Download the specific installation stet up for your PC bit - under [Git for Windows Setup] 
+### Step 4 — Download the specific installation set up for your PC bit - under [Git for Windows Setup] 
 ### Step 5 — Install
 ### Step 6 — Fire Up "Git Bash"
 
@@ -21,12 +21,14 @@ This is how I setup my git.
 
 ### Command 1 — Summary of Step
 
-![Screenshot](https://via.placeholder.com/500x300)
+![Screenshot](1.png)
 
 
-### Step 1 — Summary of Step
+### Command 2 — Summary of Step
 
-![Screenshot](https://via.placeholder.com/500x300)
+![Screenshot](2.png)
+
+
 
 ## Social Proof
 
