@@ -5,11 +5,11 @@
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+✍️ (Why) Improve and deepen my knowledge in Cloud Services. To I looked into Cloud Services concept and fundamentals
 
 ## Prerequisite
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+✍️ (What) Basic understanding of a Cloud Computing/services is using a network of remote servers(Cloud Service) via the internet to manage, store, deploy services rather than using a local self managed servers(On-premise).
 
 ## Use Case
 
