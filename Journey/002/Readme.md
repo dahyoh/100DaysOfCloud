@@ -24,10 +24,10 @@ This is how I setup my git.
 
 ![Screenshot](1.png)
 
-
 ### Command 2 — Summary of Step
 
 ![Screenshot](2.png)
+
 
 ## Resources — Both resources are FREE
 

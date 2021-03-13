@@ -11,6 +11,12 @@
 
 ✍️ (What) Basic understanding of a Cloud Computing/services is using a network of remote servers(Cloud Service) via the internet to manage, store, deploy services rather than using a local self managed servers(On-premise).
 
+## Cloud Deployment Model
+
+- ✍️ Cloud
+- ✍️ On-premises
+- ✍️ Hybris
+
 ## Use Case
 
 - 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
