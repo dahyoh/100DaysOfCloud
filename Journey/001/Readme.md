@@ -4,7 +4,7 @@
 
 ## Cloud Research
 
-- Viewed videos on the 100DaysOfCloud on Youtube and also setting up my github repo.
+- Viewed videos on the 100DaysOfCloud on Youtube, I started setting up my github repo.
 
 - Sent a request on linkedin to the 100DaysOfCloud group
 
