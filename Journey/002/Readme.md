@@ -4,7 +4,8 @@
 
 ## Cloud Research
 
-- Today I was able to figure out and set up my Github repo after battling with this for a couple of days. I had started CCP video on youtube by Andrew Brown at Exam Pro.
+- Today I was able to figure out and set-up my Github repo after battling with this for a couple of days. I had started CCP video on youtube by Andrew Brown at Exam Pro. 
+
 
 ## Have difficulty setting up your github repo [On Windows PC].
 
@@ -27,6 +28,14 @@ This is how I setup my git.
 ### Command 2 — Summary of Step
 
 ![Screenshot](2.png)
+
+## Resources — Both resources are FREE
+
+### First  — Youtube playlist by Andrew Brown of Exam Pro
+[Youtube](https://www.youtube.com/watch?v=B4kl23udOKo&list=PLBfufR7vyJJ4fOplWPOtYqRyQ6YPMsBsF&t=0s)
+
+### Second  — Amazon Cloud Service
+[Amazon](https://www.aws.training/Details/eLearning?id=60697)
 
 
 
