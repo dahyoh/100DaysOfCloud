@@ -5,21 +5,27 @@
 
 ## Introduction
 
-✍️ (Why) Improve and deepen my knowledge in Cloud Services. To I looked into Cloud Services concept and fundamentals
+✍️ (Why) Improve and deepen my knowledge in cloud services. To I looked into Cloud Services concept and fundamentals
 
 ## Prerequisite
+### Content
+- ✍️ Cloud Concept
+- ✍️ Security
+- ✍️ Technology
+- ✍️ Billing and pricing
 
-✍️ (What) Basic understanding of a Cloud Computing/services is using a network of remote servers(Cloud Service) via the internet to manage, store, deploy services rather than using a local self managed servers(On-premise).
+✍️ (What) is cloud concept?
+
+✍️ (What) - Basic understanding of a Cloud Computing/services is using a network of remote servers(Cloud Service) via the internet to manage, store, deploy services rather than using a local self managed servers(On-premise).
 
 ## Cloud Deployment Model
 
 - ✍️ Cloud
 - ✍️ On-premises
-- ✍️ Hybris
+- ✍️ Hybrid
 
-## Use Case
+## Advantage of Cloud Service
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
 - ✍️ (Show-Me) Explain in one or two sentences the use case
 
 ## Cloud Research
