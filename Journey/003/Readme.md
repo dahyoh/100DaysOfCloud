@@ -26,23 +26,19 @@
 
 ## Advantage of Cloud Service
 
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+- ✍️ This is crucial_ There are 6 benefi and advantages. These are built around the saving cost, eliminate capacity guessing and running cost, increase agility and speed, trade capitai expenses for variable and go global in a click.
 
 ## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+- ✍️ Understanding all parts of the cloud and the best approach to get more since I'm self study. Share what I tried to learn on social media and understand about the cloud topic or while completing micro-project.
+.
 
-## Type of Cloud Computing
+## Types of Cloud Computing
 
 ✍️ SaaS - Software as a Service e.g Office365, Gmail, Saleforce  (For customers)
 ✍️ PaaS - Platform as a Service e.g Heroku, BeanStack, Engine by google  (For Developers)
 
 ✍️ IaaS - Infrastructure as a Service e.g AWS, Azure, Google Cloud  (For Admins)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
 
 ## ☁️ Cloud Outcome
 
@@ -56,4 +52,4 @@
 
 ✍️ Show that you shared your process on Twitter or LinkedIn
 
-[link](link)
+[twitter](https://twitter.com/dahyooh/status/1363361172112756736)
