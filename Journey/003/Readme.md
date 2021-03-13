@@ -36,7 +36,7 @@
 ## Type of Cloud Computing
 
 ✍️ SaaS - Software as a Service e.g Office365, Gmail, Saleforce  (For customers)
-✍️ PaaS - Platform as a Service e.g Heroku, BeannStack, Engine by google  (For Developers)
+✍️ PaaS - Platform as a Service e.g Heroku, BeanStack, Engine by google  (For Developers)
 
 ✍️ IaaS - Infrastructure as a Service e.g AWS, Azure, Google Cloud  (For Admins)
 
