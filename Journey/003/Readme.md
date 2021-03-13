@@ -42,7 +42,7 @@
 
 ## ☁️ Cloud Outcome
 
-✍️ (Result) I understood all parts of the cloud and other part of the cloud as an infrastructure, software and platform.
+✍️ (Result) I understood all basic concepts of the cloud and other part of the cloud as an infrastructure, software and platform.
 
 ## Next Steps
 
