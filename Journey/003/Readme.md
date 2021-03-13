@@ -14,7 +14,7 @@
 - ✍️ Technology
 - ✍️ Billing and pricing
 
-✍️ (What) is cloud concept?
+### ✍️ What is cloud concept?
 
 ✍️ (What) - Basic understanding of a Cloud Computing/services is using a network of remote servers(Cloud Service) via the internet to manage, store, deploy services rather than using a local self managed servers(On-premise).
 
@@ -33,29 +33,24 @@
 - ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
 - 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
 
-## Try yourself
+## Type of Cloud Computing
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
+✍️ SaaS - Software as a Service e.g Office365, Gmail, Saleforce  (For customers)
+✍️ PaaS - Platform as a Service e.g Heroku, BeannStack, Engine by google  (For Developers)
+
+✍️ IaaS - Infrastructure as a Service e.g AWS, Azure, Google Cloud  (For Admins)
 
 ### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
 
 ![Screenshot](https://via.placeholder.com/500x300)
 
 ## ☁️ Cloud Outcome
 
-✍️ (Result) Describe your personal outcome, and lessons learned.
+✍️ (Result) I understood all parts of the cloud and other part of the cloud as an infrastructure, software and platform.
 
 ## Next Steps
 
-✍️ Describe what you think you think you want to do next.
+✍️ Introdution to AWS service and understanding
 
 ## Social Proof
 
