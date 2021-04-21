@@ -26,7 +26,7 @@
 
 ## Advantage of Cloud Service
 
-- ✍️ This is crucial_ There are 6 benefi and advantages. These are built around the saving cost, eliminate capacity guessing and running cost, increase agility and speed, trade capitai expenses for variable and go global in a click.
+- ✍️ This is crucial*** There are 6 benefits and advantages. These are built around the saving cost, eliminate capacity guessing and running cost, increase agility and speed, trade capitai expenses for variable and go global in a click.
 
 ## Cloud Research
 
