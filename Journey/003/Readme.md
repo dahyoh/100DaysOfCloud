@@ -21,7 +21,7 @@
 ## Cloud Deployment Model
 
 - ✍️ Cloud
-- ✍️ On-premises
+- ✍️ On-premises - Known as *Private*
 - ✍️ Hybrid
 
 ## Advantage of Cloud Service
