@@ -5,7 +5,7 @@
 
 ## Introduction
 
-✍️ (Why?) Improve and deepen my knowledge in cloud services. To I looked into Cloud Services concept and fundamentals
+✍️ (Why?) Improve and deepen my knowledge in cloud services. Today, I looked into Cloud Services concept and fundamentals
 
 ## Prerequisite
 ### Content
@@ -26,7 +26,14 @@
 
 ## Advantage of Cloud Service
 
-- ✍️ This is crucial*** There are 6 benefits and advantages. These are built around the saving cost, eliminate capacity guessing and running cost, increase agility and speed, trade capitai expenses for variable and go global in a click.
+- ✍️ This is crucial*** There are 6 benefits and advantages. These are built around the  eliminate capacity guessing and running cost, increase agility and speed, trade capitai expenses for variable and go global in a click.
+
+- ✍️ Saving cost
+- ✍️ Eliminate capacity guessing
+- ✍️ Eliminate running cost
+- ✍️ Increase agility and speed
+- ✍️ Trade capitai expenses for variable
+- ✍️ Go global in a click.
 
 ## Cloud Research
 
