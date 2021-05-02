@@ -1,15 +1,19 @@
 **Add a cover photo like:**
 ![placeholder image](https://via.placeholder.com/1200x600)
 
-# New post title here
+# AMAZON ELASTOC COMPUTE CLOUD - [EC2]
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+✍️ (Why EC2?) For starters in AWS Cloud, you need to understand the concept of Amazon EC2.
 
 ## Prerequisite
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+✍️ (What is EC2?) AWS servers are virtual and the services used to access Amazon servers is called EC2. In a simple explanation to use AWS request for EC2 instance and use it, terminate when you are done.
+
+[NOTE: INSTANCE is also known as SERVERS, in this case is a VIRTUAL SERVERS]
+
+See below for more details on EC2.
 
 ## Use Case
 
