@@ -1,5 +1,5 @@
 **Add a cover photo like:**
-![placeholder image](C:\Users\Oludayo\Desktop\100DaysOfCloud\Journey\004\EC2.jpg)
+![placeholder image](EC2.jpg)
 
 # Amazon Elastic Compute Cloud - [EC2]
 
@@ -17,17 +17,35 @@ See below for more details on EC2.
 
 ## Use Case
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+- 🖼️ (EC2) When an EC2 instances are spin-up, you are taking up you are taking a part of a HOST with a multiple of other instances. This is known as Virtual Machines.
 
-## Cloud Research
+HYPERVISOR runnning on the HOST machine is responsible underlying physical resources.
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+- ✍️ (Idea of Sharing) This sharing idean is know as "MULTI-TENANCY"
 
-## Try yourself
+## EC2 offers Cloud Research
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
+- ✍️  flexibility
+- ✍️  Cost Effective
+- ✍️  Quick
+- ✍️  Control
+
+
+## Vertical Scaling
+
+Since EC2 instances are resizable
+
+✍️ Start with small instances, when the capacity max-out, you can give MEMORY and CPU -- this is known as VERTICAL SCALING
+
+## Types of EC2 Instances
+
+Amazon EC2 instance are grouped under an instance family and optimized for certain task. They offer varying conbinations of CPU, Memory, Storage and Network capacity.
+
+- ✍️  General purpose
+- ✍️  Compute optimized
+- ✍️  Memory optimized
+- ✍️  Accelerated computing
+- ✍️  Storage optimized
 
 ### Step 1 — Summary of Step
 
