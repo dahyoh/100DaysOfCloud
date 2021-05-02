@@ -1,4 +1,3 @@
-**Add a cover photo like:**
 ![placeholder image](EC2.jpg)
 
 # Amazon Elastic Compute Cloud - [EC2]
