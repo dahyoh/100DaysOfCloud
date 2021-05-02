@@ -65,4 +65,4 @@ NOTE: Multiple EC2 instances can run on a HOST with the help of an HYPERVISOR
 
 ✍️ Show that you shared your process on Twitter or LinkedIn
 
-[link](https://twitter.com/dahyooh/status/1364201725511442434)
+[Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6794726019023593472)
