@@ -1,15 +1,21 @@
 **Add a cover photo like:**
 ![placeholder image](https://via.placeholder.com/1200x600)
 
-# New post title here
+# Amazon EC2 Pricing
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+✍️ AWS EC2 purchase options:
 
 ## Prerequisite
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+✍️ There are 5 EC2 instances options, customer purchase with respect to solutions they wants to provide
+
+- ✍️ On-demand
+- ✍ Saving Plan
+- ✍️ Reserved
+- ✍️ Spot Instances
+- ✍️ Dedicated Host
 
 ## Use Case
 
