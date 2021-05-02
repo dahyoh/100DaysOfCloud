@@ -5,7 +5,7 @@
 
 ## Introduction
 
-✍️ (Why) Improve and deepen my knowledge in cloud services. To I looked into Cloud Services concept and fundamentals
+✍️ (Why?) Improve and deepen my knowledge in cloud services. To I looked into Cloud Services concept and fundamentals
 
 ## Prerequisite
 ### Content
