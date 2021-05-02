@@ -48,15 +48,10 @@ Amazon EC2 instance are grouped under an instance family and optimized for certa
 
 ### Step 1 — Summary of Step
 
-![Screenshot](https://via.placeholder.com/500x300)
+You can view multiple EC2 instances  running on a HOST this way.
 
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
+![Screenshot](EC23.jpg)
+NOTE: Multiple EC2 instances can run on a HOST with the help of an HYPERVISOR
 
 ## ☁️ Cloud Outcome
 
