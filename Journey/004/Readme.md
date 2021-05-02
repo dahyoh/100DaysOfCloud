@@ -1,5 +1,5 @@
 **Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+![placeholder image](https://app.diagrams.net/?src=about#Hdahyoh%2F100DaysOfCloud%2Fmain%2FJourney%2F004%2FUntitled%20Diagram.drawio)
 
 # Amazon Elastic Compute Cloud - [EC2]
 
