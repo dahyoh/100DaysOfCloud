@@ -1,7 +1,7 @@
 **Add a cover photo like:**
 ![placeholder image](https://via.placeholder.com/1200x600)
 
-# AMAZON ELASTOC COMPUTE CLOUD - [EC2]
+# Amazon Elastic Compute Cloud - [EC2]
 
 ## Introduction
 

@@ -1,7 +1,7 @@
 **Add a cover photo like:**
 ![placeholder image](https://via.placeholder.com/1200x600)
 
-# Day 3 Deep Dive into AWS Cloud
+# Deep Dive into AWS Cloud
 
 ## Introduction
 
