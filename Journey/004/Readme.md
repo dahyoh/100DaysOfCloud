@@ -55,14 +55,14 @@ NOTE: Multiple EC2 instances can run on a HOST with the help of an HYPERVISOR
 
 ## ☁️ Cloud Outcome
 
-✍️ (Result) Describe your personal outcome, and lessons learned.
+✍️ Lessons learned about virtualization, how virtualization is achieved and hypervisor
 
 ## Next Steps
 
-✍️ Describe what you think you think you want to do next.
+✍️ Deepen my knowledge in AWS insfrastruction, Billing and more.
 
 ## Social Proof
 
 ✍️ Show that you shared your process on Twitter or LinkedIn
 
-[link](link)
+[link](https://twitter.com/dahyooh/status/1364201725511442434)
