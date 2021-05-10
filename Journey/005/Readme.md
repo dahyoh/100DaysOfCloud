@@ -6,8 +6,8 @@
 ## Introduction
 
 ✍️ AWS EC2 purchase options:
-
-## Prerequisite
+Instance option etc
+## AWS EC2 pricing | Purchasiing options (Instance option etc)
 
 ✍️ There are 5 EC2 instances options, customer purchase with respect to solutions they wants to provide
 
