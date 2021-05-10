@@ -22,7 +22,7 @@
 - ✍️ (On-Demand) New customer to AWS - used for baseline
 - ✍️ (Saving Plans) Commit between 1 to 3years e.g AWS Fargate and AWS Lambda
 - ✍️ (Reserved) Steady usage, massive saving discount [75%] pay 1 or 3years - Upfront pay in full, Partial payment or No pay
-- ✍️ (Spot) Customer has flexible start and end time -b/c AWS can interruot the service anytime [90% saving for usage]
+- ✍️ (Spot) Customer has flexible start and end time - NOTE: make sure your services can withstand AWS interruot  b/c AWS terminated to use instance anytime [90% saving for usage]
 
 ## Cloud Research
 
